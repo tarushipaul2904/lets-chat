@@ -1,0 +1,47 @@
+body
+{
+    background-image: url(bg.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1
+{
+ text-align: right;
+ margin-right: 20%;
+}
+label{
+    margin-right: 22%;
+}
+
+h2{
+    text-align: right;
+    margin-right: 10%;
+}
+.login_div
+{
+    background-image: url(box.jpg);
+    text-align: right;
+    margin-right: 12%;
+    float: none;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    margin-left: 60%;
+}
+input{
+    width: 30%;
+}
+button{
+      margin-right: 32%;
+      width: 40%;
+      border-radius: 30%;
+      text-emphasis: bold;
+}
+label{
+    color: white;
+    text-align: right;
+}
+h3{
+    color: white;
+    margin-right: 70%;
+}
